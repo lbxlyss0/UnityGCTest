@@ -2,8 +2,11 @@
 I'll document any GC problems I find, as well as common GC perceptions of errors
 
 【summary】
+
 Test-Environment : Unity2018.4.22f1
+
 Test-Count : 100 
+
 --------------
 【Coroutines】
 
