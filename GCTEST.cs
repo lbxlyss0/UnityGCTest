@@ -59,7 +59,7 @@ public class GCTEST : MonoBehaviour
         {
             string a = string.Concat("a", "b");
         }
-        Profiler.EndSample();//22.5KB 
+        Profiler.EndSample();//2.9KB 
 
         Profiler.BeginSample("New - array");
         for (int i = 0; i < count; i++)
